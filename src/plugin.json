@@ -1,0 +1,33 @@
+{
+  "type": "panel",
+  "name": "RechartsPieChart2Types",
+  "id": "taianeSB-94-grafana-recharts-piechart2types-panel",
+  "info": {
+    "description": "PieChart panel for Grafana.",
+    "author": {
+      "name": "Taiane Barbosa"
+    },
+    "keywords": ["grafana", "plugin"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/TaianeSB-94/grafana-recharts-piechart2type-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/TaianeSB-94/grafana-recharts-piechart2type-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "7.0.x",
+    "plugins": []
+  }
+}
